@@ -2,7 +2,6 @@
 A Java-based restaurant management system demonstrating OOP concepts, including menu management, customer orders, billing, and weekly scheduling.
 Restaurant Management System (Java OOP Project)
 
-A Java-based restaurant management system designed using Object-Oriented Programming (OOP) concepts.  
 The system includes menu management, customer interactions, order processing, billing, and daily menu scheduling.  
 This project demonstrates clean class design, inheritance, encapsulation, method overriding, and modular programming.
 
